@@ -1,0 +1,4 @@
+*.pyc
+
+# Local score file
+score_data.txt
