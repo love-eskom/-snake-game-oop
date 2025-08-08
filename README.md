@@ -23,7 +23,6 @@ snake-game-oop/
 ├── snake_data.py       # Snake movement and control
 ├── score_data.txt      # Stores high score persistently
 ├── updates.txt         # Report & future improvement notes
-├── code notes.txt      # Developer notes (if needed)
 └── README.md           # This file
 ```
 
